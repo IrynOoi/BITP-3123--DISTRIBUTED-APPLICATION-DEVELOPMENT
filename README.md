@@ -443,9 +443,21 @@ Student: Can view events, register for them, and check in using QR codes.
 
 
 
+## Output :
 
+<img width="281" height="317" alt="image" src="https://github.com/user-attachments/assets/ec510baf-1cce-455e-b775-f577509cfd02" />
 
+<br><br>
 
+<img width="396" height="397" alt="image" src="https://github.com/user-attachments/assets/0ca8807b-7e01-4560-a4de-e1b1775ff567" />
+
+<br><br>
+
+<img width="394" height="390" alt="image" src="https://github.com/user-attachments/assets/5cb18c1b-da54-4a32-b26a-55c76bd0bb36" />
+
+<br><br>
+
+<img width="495" height="354" alt="image" src="https://github.com/user-attachments/assets/f76d58eb-b57a-4b66-bbd3-d83be375bbcf" />
 
 
 
